@@ -6,5 +6,5 @@ class ApiConfig(AppConfig):
     name = 'api'
 
 
-print("Hello, World!")
+
 
